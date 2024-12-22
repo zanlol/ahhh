@@ -11,7 +11,7 @@
 
 :root {
     --theme-background-image: url(https://i.pinimg.com/originals/a6/7f/ab/a67fab85921692f04f6517bfe393ae25.gif);
-    --home-icon-image: url(https://xasya.github.io/theme/upd/chika-vs-bedrock/Fr_Ico.jpg);
+    --home-icon-image: url(https://i.pinimg.com/originals/54/fc/e2/54fce21fe7a0d81be909c9e2f54f5d1b.gif);
     --main-theme-color: rgb(67, 181, 129);
     --theme-transparency: rgba(0, 0, 0, 0.8);
     --home-icon-image-position: right center;
